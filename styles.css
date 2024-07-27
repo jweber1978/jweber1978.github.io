@@ -1,0 +1,67 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+li {
+    display: inline;
+    margin: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+div.polaroid {
+    width: 25%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    display: inline;
+}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+
+
+}
+
+div.container p {
+    background-color: white;
+    padding: 50px;
+}
+
+.button {
+    background-color: #04aa6d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+footer { 
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+
+/*
+Author: Joanie Weber
+Date: 7/24/2024
+Assignment: Final Project
+Filename: styles.css */
